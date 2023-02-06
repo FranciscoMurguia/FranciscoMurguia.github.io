@@ -5,7 +5,7 @@ Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a st
 
 <p>Some things I enjoy to do are:</p>
 <ol>
-<li>Playing video games, some of my favorite games of all time are:</li>
+<li>Playing video games, some of my favorite games are:</li>
 <ol>
   <li>Dark Souls</li>
   <li>The Elder Scrolls IV: Oblivion</li>
