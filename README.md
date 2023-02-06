@@ -6,6 +6,11 @@ Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a st
 <p>Some things I enjoy to do are:</p>
 
 1. Playing video games
+<ol>
+  <li>Dark Souls</li>
+  <li>League of Legends</li>
+  <li>Runescape</li>
+  </ol>
 
 2. Hiking
 
