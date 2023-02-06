@@ -14,7 +14,7 @@ Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a st
 
 <li>Hiking</li>
 
-<li>Listening to music<br> Some of my favorite artists are:</li>
+<li>Listening to music,<br> some of my favorite artists are:</li>
 <ol>
   <li>Hippo Campus</li>
   <li>Tyler the Creator</li>
