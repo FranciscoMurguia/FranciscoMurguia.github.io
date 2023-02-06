@@ -2,6 +2,7 @@
 ## hello-world
 Repository for CS-250
 Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a student at Boise State University.
+
 Some things I enjoy to do are:
 
 1. Playing video games
