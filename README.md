@@ -4,17 +4,17 @@
 Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a student at Boise State University.</p>
 
 <p>Some things I enjoy to do are:</p>
-
-1. Playing video games
+<ol>
+<li>Playing video games</li>
 <ol>
   <li>Dark Souls</li>
   <li>League of Legends</li>
   <li>Runescape</li>
   </ol>
 
-2. Hiking
+<li>Hiking</li>
 
-3. Listening to music
+<li>Listening to music</li>
 
-4. Cooking
-
+<li>Cooking</li>
+</ol>
