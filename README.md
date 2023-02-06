@@ -1,7 +1,7 @@
 # Hello, welcome to my github webpage!
 ## hello-world
 Repository for CS-250
-Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a student at Boise State University.
+Hello, my name is Francisco Murguia. I'm from Boise, Idaho and am currently a student at Boise State University.\n
 Some things I enjoy to do are:
 1.Playing video games
 2.Hiking
